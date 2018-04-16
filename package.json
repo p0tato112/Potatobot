@@ -1,15 +1,14 @@
-  { "name": "Potatobot",
-    "description": "A Discord Bot.",
-    "version": "1.0.0",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js"
-    },
-    "dependencies": {
-    "discord.js": "11.1.0"
-    
-    
-    }
 
-
+{
+  "name": "BP",
+  "description": "a bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    
+  }
 }
